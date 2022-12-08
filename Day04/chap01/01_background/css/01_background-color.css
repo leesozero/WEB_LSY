@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+}
+
+.inner{
+    width: 70vw;
+    min-height: 80vh;
+    margin: 0 auto;
+    font-size: 0;
+    letter-spacing: 0;
+    word-spacing: 0;
+}
+
+.inner .item{
+    display: inline-block;
+    margin: 0;
+    width:25%;
+    height: 20vh;
+    border:1px solid black;
+}
+
+.color1 {background-color: tomato;}
+.color2 {background-color: cornflowerblue;}
+.color3 {background-color: mediumaquamarine;}
+.color4 {background-color: slateblue;}
+
+.color5 {background-color: #00d2d3;}
+.color6 {background-color: cornflowerblue;}
+.color7 {background-color: mediumaquamarine;}
+.color8 {background-color: slateblue;}
+
+.color9 {background-color: tomato;}
+.color10 {background-color: cornflowerblue;}
+.color11 {background-color: mediumaquamarine;}
+.color12 {background-color: slateblue;}
+
+.color13 {background-color: tomato;}
+.color14 {background-color: cornflowerblue;}
+.color15 {background-color: mediumaquamarine;}
+.color16 {background-color: slateblue;}

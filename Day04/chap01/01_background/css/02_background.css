@@ -1,0 +1,106 @@
+.container{
+    text-align: center;
+}
+
+.inner{
+    width: 70vw;
+    min-height: 70vh;
+    margin: 0 auto;
+    border: 1px solid gray;
+}
+
+.back1 {
+    background-image: url(../img/aloha.png);
+}
+
+.back2{
+    min-height: 190px;
+    background-image: url(../img/aloha.png);
+    background-size: 200px 190px;
+    background-repeat: repeat-x;
+
+}
+
+.back3{
+    min-height:600px;
+    background-image: url(../img/aloha.png);
+    background-size: 200px;
+    background-repeat: repeat-y;
+}
+
+.back4{
+    
+    background-image: url(../img/aloha.png);
+    background-repeat: no-repeat;
+}
+
+
+
+.left{
+    
+    background-image:no-repeat;
+    background-repeat: left;
+}
+
+
+.center{
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.right{
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.top-left{
+    
+    background-image:no-repeat;
+    background-repeat: top left;
+    background-size: 200px 190px;
+}
+
+
+.top-right{
+    
+    background-image:no-repeat;
+    background-repeat: top right;
+    background-size: 200px 190px;
+}
+
+
+.bottom-left{
+    
+    background-image:no-repeat;
+    background-repeat: bottom left;
+    background-size: 200px 190px;
+}
+
+
+.bottom-right{
+    
+    background-image:no-repeat;
+    background-repeat: bottom right;
+    background-size: 200px 190px;
+}
+
+.top-center{
+    background-image:no-repeat;
+    background-repeat: top-center;
+    background-size: 200px 190px;
+}
+ 
+
+.classroom{
+    background-image: url(../img/classroom.jpg), url(../img/classroom.jpg);
+    background-size: contain, cover;
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, center;
+}
+
+
+
+.short{
+    
+}
